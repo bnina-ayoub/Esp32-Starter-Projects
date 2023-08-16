@@ -2,7 +2,7 @@
 
 This repository contains my first three basic ESP32 projects. The projects are:
 
-* **LED Blink:** This project blinks an LED connected to the ESP32.
+* **LED Fade and Relay Controller:** This project blinks an LED connected to the ESP32.
 * **Potentiometer-Based LED Intensity Regulator:** This project regulates the intensity of an LED connected to the ESP32 using a potentiometer.
 * **The LED Indicator for WiFi Connectivity and Web Interaction:** This project uses HTTP requests made from a web browser and reads data sent from the website using the HTTP GET method.
 
