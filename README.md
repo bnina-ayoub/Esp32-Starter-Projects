@@ -1,6 +1,3 @@
-Sure, here is a sample README file for a GitHub repository that mentions that you worked on VS Code using the PlatformIO extension and that the three projects are LED blinking, Potentiometer-Based LED Intensity Regulator and a WIFi connected LED Controller with web requests:
-
-
 # ESP32 Basic Projects
 
 This repository contains my first three basic ESP32 projects. The projects are:
